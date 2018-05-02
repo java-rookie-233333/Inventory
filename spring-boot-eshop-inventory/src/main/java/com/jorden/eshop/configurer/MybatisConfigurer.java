@@ -21,7 +21,7 @@ import static com.jorden.eshop.core.ProjectConstant.*;
 /**
  * Mybatis & Mapper & PageHelper 配置
  */
-@Configuration
+@Configuration 
 public class MybatisConfigurer {
 
     @Bean

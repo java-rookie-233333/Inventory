@@ -34,7 +34,10 @@ public class Application {
 		return cluster;
 	}
     
-    
+    /**
+     * 本地环境，redis无集群环境
+     * @return
+     */
     @Bean
     public Jedis  JedisFactory(){
     	Jedis jedis = null;
