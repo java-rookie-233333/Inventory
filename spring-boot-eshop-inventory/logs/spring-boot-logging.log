@@ -1,0 +1,79 @@
+2018-05-02 09:55:32.272  INFO 1760 --- [main] com.jorden.eshop.Application             : Starting Application on lwq with PID 1760 (D:\Users\HP\git\spring-boot-api-project-seed\target\classes started by HP in D:\Users\HP\git\spring-boot-api-project-seed)
+2018-05-02 09:55:32.275  INFO 1760 --- [main] com.jorden.eshop.Application             : The following profiles are active: dev
+2018-05-02 09:55:33.034  WARN 1760 --- [main] o.s.c.a.ConfigurationClassPostProcessor  : Cannot enhance @Configuration bean definition 'mybatisConfigurer' since its singleton instance has been created too early. The typical cause is a non-static @Bean method with a BeanDefinitionRegistryPostProcessor return type: Consider declaring such methods as 'static'.
+2018-05-02 09:55:33.595  INFO 1760 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-05-02 09:55:33.596  INFO 1760 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.23
+2018-05-02 09:55:33.697  INFO 1760 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-05-02 09:55:37.559  INFO 1760 --- [main] com.jorden.eshop.Application             : Started Application in 5.549 seconds (JVM running for 6.163)
+2018-05-02 09:55:51.633  INFO 1760 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-05-02 09:55:51.839  INFO 1760 --- [pool-1-thread-2] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2018-05-02 09:56:57.204  INFO 1760 --- [RMI TCP Connection(2)-192.168.58.1] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2018-05-02 09:57:44.266  INFO 2520 --- [main] com.jorden.eshop.Application             : Starting Application on lwq with PID 2520 (D:\Users\HP\git\spring-boot-api-project-seed\target\classes started by HP in D:\Users\HP\git\spring-boot-api-project-seed)
+2018-05-02 09:57:44.269  INFO 2520 --- [main] com.jorden.eshop.Application             : The following profiles are active: dev
+2018-05-02 09:57:44.979  WARN 2520 --- [main] o.s.c.a.ConfigurationClassPostProcessor  : Cannot enhance @Configuration bean definition 'mybatisConfigurer' since its singleton instance has been created too early. The typical cause is a non-static @Bean method with a BeanDefinitionRegistryPostProcessor return type: Consider declaring such methods as 'static'.
+2018-05-02 09:57:45.550  INFO 2520 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-05-02 09:57:45.551  INFO 2520 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.23
+2018-05-02 09:57:45.651  INFO 2520 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-05-02 09:57:49.546  INFO 2520 --- [main] com.jorden.eshop.Application             : Started Application in 5.528 seconds (JVM running for 6.144)
+2018-05-02 09:58:01.550  INFO 2520 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-05-02 09:58:01.761  INFO 2520 --- [pool-1-thread-2] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2018-05-02 09:58:21.177  INFO 2520 --- [RMI TCP Connection(2)-192.168.58.1] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2018-05-02 12:22:21.678  INFO 1036 --- [main] com.jorden.eshop.Application             : Starting Application on lwq with PID 1036 (D:\Users\HP\git\spring-boot-api-project-seed\target\classes started by HP in D:\Users\HP\git\spring-boot-api-project-seed)
+2018-05-02 12:22:21.701  INFO 1036 --- [main] com.jorden.eshop.Application             : The following profiles are active: dev
+2018-05-02 12:22:22.764  WARN 1036 --- [main] o.s.c.a.ConfigurationClassPostProcessor  : Cannot enhance @Configuration bean definition 'mybatisConfigurer' since its singleton instance has been created too early. The typical cause is a non-static @Bean method with a BeanDefinitionRegistryPostProcessor return type: Consider declaring such methods as 'static'.
+2018-05-02 12:22:23.866  INFO 1036 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-05-02 12:22:23.867  INFO 1036 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.23
+2018-05-02 12:22:24.048  INFO 1036 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-05-02 12:22:30.783  INFO 1036 --- [main] com.jorden.eshop.Application             : Started Application in 9.501 seconds (JVM running for 10.281)
+2018-05-02 12:22:43.444  INFO 1036 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-05-02 12:23:07.902  INFO 1036 --- [pool-1-thread-2] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2018-05-02 12:25:23.554  INFO 1036 --- [RMI TCP Connection(2)-192.168.58.1] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2018-05-02 12:25:54.159  INFO 3696 --- [main] ationConfigEmbeddedWebApplicationContext : Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@6e0dec4a: startup date [Wed May 02 12:25:54 GMT+08:00 2018]; root of context hierarchy
+2018-05-02 12:25:54.804  WARN 3696 --- [main] o.s.c.a.ConfigurationClassPostProcessor  : Cannot enhance @Configuration bean definition 'mybatisConfigurer' since its singleton instance has been created too early. The typical cause is a non-static @Bean method with a BeanDefinitionRegistryPostProcessor return type: Consider declaring such methods as 'static'.
+2018-05-02 12:25:55.334  INFO 3696 --- [main] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat initialized with port(s): 8080 (http)
+2018-05-02 12:25:55.347  INFO 3696 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2018-05-02 12:25:55.348  INFO 3696 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.23
+2018-05-02 12:25:55.438  INFO 3696 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-05-02 12:25:55.439  INFO 3696 --- [localhost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1282 ms
+2018-05-02 12:25:55.651  INFO 3696 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Mapping servlet: 'dispatcherServlet' to [/]
+2018-05-02 12:25:55.653  INFO 3696 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Mapping servlet: 'statViewServlet' to [/druid/*]
+2018-05-02 12:25:55.655  INFO 3696 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-05-02 12:25:55.656  INFO 3696 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-05-02 12:25:55.656  INFO 3696 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2018-05-02 12:25:55.656  INFO 3696 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2018-05-02 12:25:55.656  INFO 3696 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'webStatFilter' to urls: [/*]
+2018-05-02 12:25:58.864  INFO 3696 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@6e0dec4a: startup date [Wed May 02 12:25:54 GMT+08:00 2018]; root of context hierarchy
+2018-05-02 12:25:58.919  INFO 3696 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/inventory/cnt/add],methods=[POST]}" onto public com.jorden.eshop.core.Result com.jorden.eshop.web.InventoryCntController.add(com.jorden.eshop.model.InventoryCnt)
+2018-05-02 12:25:58.920  INFO 3696 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/inventory/cnt/update],methods=[POST]}" onto public com.jorden.eshop.core.Result com.jorden.eshop.web.InventoryCntController.update(com.jorden.eshop.model.InventoryCnt)
+2018-05-02 12:25:58.921  INFO 3696 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/inventory/cnt/delete],methods=[POST]}" onto public com.jorden.eshop.core.Result com.jorden.eshop.web.InventoryCntController.delete(java.lang.Integer)
+2018-05-02 12:25:58.921  INFO 3696 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/inventory/cnt/list],methods=[POST]}" onto public com.jorden.eshop.core.Result com.jorden.eshop.web.InventoryCntController.list(java.lang.Integer,java.lang.Integer)
+2018-05-02 12:25:58.921  INFO 3696 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/inventory/cnt/detail],methods=[POST]}" onto public com.jorden.eshop.core.Result com.jorden.eshop.web.InventoryCntController.detail(java.lang.Integer)
+2018-05-02 12:25:58.922  INFO 3696 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/inventory/cnt/updateProductInventoryCacheRefreshRequest]}" onto public com.jorden.eshop.core.Result com.jorden.eshop.web.InventoryCntController.updateProductInventoryCacheRefreshRequest(com.jorden.eshop.model.InventoryCnt)
+2018-05-02 12:25:58.923  INFO 3696 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/user/add],methods=[POST]}" onto public com.jorden.eshop.core.Result com.jorden.eshop.web.UserController.add(com.jorden.eshop.model.User)
+2018-05-02 12:25:58.924  INFO 3696 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/user/update],methods=[POST]}" onto public com.jorden.eshop.core.Result com.jorden.eshop.web.UserController.update(com.jorden.eshop.model.User)
+2018-05-02 12:25:58.924  INFO 3696 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/user/delete],methods=[POST]}" onto public com.jorden.eshop.core.Result com.jorden.eshop.web.UserController.delete(java.lang.Integer)
+2018-05-02 12:25:58.924  INFO 3696 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/user/list],methods=[POST]}" onto public com.jorden.eshop.core.Result com.jorden.eshop.web.UserController.list(java.lang.Integer,java.lang.Integer)
+2018-05-02 12:25:58.924  INFO 3696 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/user/detail],methods=[POST]}" onto public com.jorden.eshop.core.Result com.jorden.eshop.web.UserController.detail(java.lang.Integer)
+2018-05-02 12:25:58.926  INFO 3696 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2018-05-02 12:25:58.926  INFO 3696 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-05-02 12:25:58.971  INFO 3696 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-05-02 12:25:59.180  INFO 3696 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2018-05-02 12:25:59.182  INFO 3696 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Bean with name 'statFilter' has been autodetected for JMX exposure
+2018-05-02 12:25:59.182  INFO 3696 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Bean with name 'dataSource' has been autodetected for JMX exposure
+2018-05-02 12:25:59.185  INFO 3696 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Located MBean 'dataSource': registering with JMX server as MBean [com.alibaba.druid.spring.boot.autoconfigure:name=dataSource,type=DruidDataSourceWrapper]
+2018-05-02 12:25:59.228  INFO 3696 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Located MBean 'statFilter': registering with JMX server as MBean [com.alibaba.druid.filter.stat:name=statFilter,type=StatFilter]
+2018-05-02 12:25:59.273  INFO 3696 --- [main] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat started on port(s): 8080 (http)
+2018-05-02 12:26:03.834  INFO 3696 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-05-02 12:26:03.835  INFO 3696 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization started
+2018-05-02 12:26:03.851  INFO 3696 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization completed in 16 ms
+2018-05-02 12:26:04.012  INFO 3696 --- [pool-1-thread-2] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2018-05-02 12:26:04.239 DEBUG 3696 --- [pool-1-thread-2] c.j.e.d.I.updateByPrimaryKeySelective    : ==>  Preparing: UPDATE inventory_cnt SET inventoryCnt = ? WHERE productId = ? 
+2018-05-02 12:26:04.261 DEBUG 3696 --- [pool-1-thread-2] c.j.e.d.I.updateByPrimaryKeySelective    : ==> Parameters: 2(Integer), 1(Integer)
+2018-05-02 12:26:04.265 DEBUG 3696 --- [pool-1-thread-2] c.j.e.d.I.updateByPrimaryKeySelective    : <==    Updates: 1
+2018-05-02 12:36:57.460  INFO 3696 --- [RMI TCP Connection(2)-192.168.58.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2018-05-02 12:36:57.460  INFO 3696 --- [RMI TCP Connection(3)-192.168.58.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2018-05-02 12:36:57.460  INFO 3696 --- [RMI TCP Connection(4)-192.168.58.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2018-05-02 12:36:57.460  INFO 3696 --- [RMI TCP Connection(2)-192.168.58.1] ationConfigEmbeddedWebApplicationContext : Closing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@6e0dec4a: startup date [Wed May 02 12:25:54 GMT+08:00 2018]; root of context hierarchy
+2018-05-02 12:36:57.463  INFO 3696 --- [RMI TCP Connection(2)-192.168.58.1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2018-05-02 12:36:57.463  INFO 3696 --- [RMI TCP Connection(2)-192.168.58.1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans
+2018-05-02 12:36:57.477  INFO 3696 --- [RMI TCP Connection(2)-192.168.58.1] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
