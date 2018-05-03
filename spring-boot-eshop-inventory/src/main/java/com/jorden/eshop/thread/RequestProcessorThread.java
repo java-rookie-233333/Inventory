@@ -5,7 +5,12 @@ import java.util.concurrent.Callable;
 
 import com.jorden.eshop.request.Request;
 
-
+/**
+ * 
+ * 请求处理器
+ * @author jorden.li
+ *
+ */
 public class RequestProcessorThread  implements Callable<Boolean>{
 
 	

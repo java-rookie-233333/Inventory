@@ -8,7 +8,7 @@ import com.jorden.eshop.request.Request;
 import com.jorden.eshop.request.RequestQueue;
 
 /**
- * 
+ * 初始化请求处理器
  * jorden.li
  */
 public class RequestProcessorThreadPool {
